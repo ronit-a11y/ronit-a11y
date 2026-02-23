@@ -25,7 +25,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronit-a11y&show_icons=true&theme=radical"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ronit-a11y&theme=radical"/>
 </p>
 
